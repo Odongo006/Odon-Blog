@@ -23,7 +23,7 @@ export default function Footer() {
         justify={{base: "center", md: "space-between"}}
         align={{base: "center", md: "center"}}
       >
-        <Text>© 2023 Arslan Sarfraz.</Text>
+        <Text>© 2023 Henry Odongo.</Text>
         <Stack direction={"row"} spacing={6}>
           <chakra.button
             bg={useColorModeValue("blackAlpha.100", "whiteAlpha.100")}
